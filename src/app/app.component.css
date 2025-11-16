@@ -1,0 +1,12 @@
+/* src/app/app.component.css */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #333;
+  color: white;
+}
+header h1 { margin: 0; }
+header a { color: white; text-decoration: none; font-weight: bold; }
+main { padding: 2rem; }
